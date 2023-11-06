@@ -545,7 +545,7 @@ INPUT:
 image
 
 Output:
-![image](https://github.com/Sanafathima95773/EX.No.-2.2-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING/assets/147084627/9ee4a897-5856-4f02-873e-25fd648f8595)
+![image](https://github.com/Sanafathima95773/EX.No.-2.2-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING/assets/147084627/8982fd8a-666e-4e81-93ba-ad804097281f)
 
 RESULT:
 Thus, the 3D model is created from given isometric drawing.
